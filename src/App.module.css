@@ -1,0 +1,7 @@
+.wrap {
+  display: flex;
+}
+.cantainer {
+  display: flex;
+  flex-direction: column;
+}
